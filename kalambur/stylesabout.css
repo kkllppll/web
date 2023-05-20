@@ -1,0 +1,143 @@
+h1{
+position: absolute;
+width: 616px;
+height: 61px;
+left: 100px;
+top: 89px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 38px;
+
+color: #000000;
+}
+
+.hto h1{
+   
+position: absolute;
+width: 117px;
+height: 28px;
+left: 100px;
+top: 178px;
+        
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+        
+        
+color: #000000;
+    
+    
+}
+.hto p{
+position: absolute;
+width: 836px;
+height: 188px;
+left: 100px;
+top: 217px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+
+color: #000000;
+
+}
+
+.when h1{
+position: absolute;
+width: 254px;
+height: 28px;
+left: 1087px;
+top: 178px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+
+
+color: #000000;
+
+
+}
+
+.when p{
+position: absolute;
+width: 239px;
+height: 49px;
+left: 1087px;
+top: 217px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+
+color: #000000;
+}
+
+.de h1{
+position: absolute;
+width: 202px;
+height: 28px;
+left: 100px;
+top: 380px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+
+
+
+color: #000000;
+}
+
+.de p{
+position: absolute;
+width: 395px;
+height: 23px;
+left: 100px;
+top: 417px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 23px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+
+}
+
+.de img{
+position: absolute;
+width: 951px;
+height: 603px;
+left: 99px;
+top: 464px;
+}
+
+.footer{
+  position: relative;
+  width: 100%;
+  height: 300px;
+  left: 10px;
+  top: 1100px;
+  
+  background: #1A130F;
+  }
+
